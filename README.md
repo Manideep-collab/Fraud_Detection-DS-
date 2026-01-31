@@ -172,10 +172,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaborations:
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [@your-username](https://github.com/your-username)
+- **Project Lead**: Manideep Palnati
+- **Email**: pmanideep2004@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/manideep-palnati/
+- **GitHub**: Manideep Palnati(https://github.com/Manideep-collab)
 
 ---
 
