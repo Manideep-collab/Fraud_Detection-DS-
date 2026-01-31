@@ -53,6 +53,8 @@ The dataset used in this project simulates financial transactions over a 30-day 
 
 The dataset exhibits severe class imbalance, with fraudulent transactions representing less than 1% of all transactions.
 
+- **Dataset Source**: https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download
+
 ## Installation
 
 1. **Clone the repository**:
