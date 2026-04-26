@@ -132,8 +132,8 @@ See `requirements.txt` for exact versions.
 ### Model Performance
 
 - **ROC-AUC**: [Insert value from notebook]
-- **Precision on Fraud Class**: [Insert value]
-- **Recall on Fraud Class**: [Insert value]
+- **Precision on Fraud Class**: 0.33
+- **Recall on Fraud Class**: 0.89
 - **F1-Score**: [Insert value]
 
 ### Key Insights
